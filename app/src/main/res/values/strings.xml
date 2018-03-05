@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment06-VilmarieT</string>
+    <string name="amount">Amount</string>
+    <string name="tax_percentage">Tax Percentage</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <string name="submit_button">Submit</string>
+    <string name="first_title_label">Tip Calculator</string>
+    <string name="second_title_label">Your Receipt</string>
+</resources>
